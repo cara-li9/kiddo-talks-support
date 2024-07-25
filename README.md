@@ -14,4 +14,3 @@ To create a new journal, click on the "Create Your First Journal" button on the 
 ### How do I add a new entry?
 To add a new entry, open a journal and click on the "+" button. Fill in the details and click "Save."
 
-## More Information
