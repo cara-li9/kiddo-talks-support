@@ -1,10 +1,10 @@
-# Kiddo Talks Support
+
 
 Welcome to the Kiddo Talks support page. Here you can find answers to common questions and get help with using the app.
 
 ## Contact Us
 
-If you have any questions or need further assistance, please contact us at [your-email@example.com](mailto:your-email@example.com).
+If you have any questions or need further assistance, please contact us at cara@connextech.co.nz.
 
 ## FAQ
 
